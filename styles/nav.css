@@ -23,3 +23,16 @@ nav li a:hover {
     color: white;
     outline: 5px solid gray;
 }
+
+/* dropdown menu styles */
+
+nav li .dropdown {
+    display: none;
+    position: absolute;
+    background-color: lightyellow;
+    padding-left: 10px;
+}
+
+nav li:hover > .dropdown {
+    display: block;
+}
