@@ -1,5 +1,5 @@
 body {
-    background-color: gray;
+    background-color: goldenrod;
 }
 
 nav > ul > li {
@@ -18,7 +18,7 @@ footer {
 
 img {
     background-color: black;
-    border: 2px solid goldenrod;
+    border: 2px solid yellowgreen;
     border-radius: 10px;
     padding: 2px;
     outline: 2px solid blue;
